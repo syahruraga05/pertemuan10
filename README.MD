@@ -11,7 +11,10 @@ Nim	: 312010354 <br>
 ## Latihan 1
 
  **Soal**
+
 	Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda.
+
+
 
 ![gambar](/gambar/Capture1.PNG)<br>
 
@@ -90,7 +93,7 @@ Berikut *source code* nya
 ![gambar](/gambar/Capture7.PNG)<br>
 
 # Maka hasil output ketika dijalankan sebagai berikut
-* Ketika anda memilih menu 1 maka hasilnya anda akan disuruh untuk mengetik data anda
+* Ketika anda memilih menu 1 maka hasilnya anda akan disuruh untuk mengisi data anda
 
 ![gambar](/gambar/Capture8.PNG)<br>
 
